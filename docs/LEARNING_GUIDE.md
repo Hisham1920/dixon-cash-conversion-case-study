@@ -66,6 +66,8 @@ Rows 49-57 explain working-capital cash changes. Positive means the statement re
 
 Closing cash in FY2026 is opening cash plus the net cash change from operating, investing and financing activities plus acquisition/disposal adjustments: 230.85 + 423.60 + 112.98 = INR767.43 crore. Forgetting the group adjustment would create a false reconciliation error.
 
+The stock-screen cross-check makes this practical: Screener rounds the FY2026 total cash increase to INR537 crore. The annual report separates INR423.60 crore from the three cash-flow activities and INR112.98 crore of cash added through group changes. See `docs/CASH_FLOW_RECONCILIATION.md` for a three-year bridge and why Screener's free cash flow and CFO/OP should not be substituted for our defined metrics.
+
 ## The three cash scenarios
 
 `Assumptions!E5` selects one case. CHOOSE picks the active driver. The model always uses the same calculation cells in `Cash Scenarios` rather than separate copies of the model.
@@ -138,3 +140,5 @@ Excel changes and JSON changes are separate. Changing the workbook does not edit
 **How would you prove the pilot worked?** Match comparable treated/untreated invoice cohorts. Adjust for customer and sales mix. Track collection timing, discounts, bad debts and financing balances over enough cycles. Validate that the improvement reduced borrowing rather than only increasing cash held.
 
 **What is your recommendation?** Validate the invoice and financing assumptions, then approve a limited pilot only if the measured economics support it. Avoid a company-wide rollout based only on a public-data sensitivity.
+
+**What should be reviewed each week?** Collection and inventory days, supplier terms, invoice disputes, and borrowing balances. Escalate unusual movements, verify contracts and customer mix, and avoid treating a change in closing cash caused by group acquisitions as recurring operating improvement.
