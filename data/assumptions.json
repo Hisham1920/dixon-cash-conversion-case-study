@@ -1,0 +1,19 @@
+{
+  "days_per_year": 365,
+  "case_selected": 4,
+  "cases": [
+    {"name": "No change", "collection_delay_days": 0, "inventory_additional_days": 0, "supplier_days_reduction": 0},
+    {"name": "Collections delay", "collection_delay_days": 5, "inventory_additional_days": 0, "supplier_days_reduction": 0},
+    {"name": "Inventory buffer", "collection_delay_days": 0, "inventory_additional_days": 5, "supplier_days_reduction": 0},
+    {"name": "Earlier supplier payment", "collection_delay_days": 0, "inventory_additional_days": 0, "supplier_days_reduction": 5}
+  ],
+  "pilot": {
+    "sales_scope": 0.02,
+    "collection_days_reduction": 5,
+    "financed_share": 0.5,
+    "annual_financing_rate": 0.10,
+    "implementation_cost_crore": 0.25,
+    "annual_running_cost_crore": 0.12,
+    "year_one_benefit_realisation": 0.5
+  }
+}

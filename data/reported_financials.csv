@@ -1,0 +1,44 @@
+metric,label,FY2023_reference_lakh,FY2024_lakh,FY2025_lakh,FY2026_lakh
+revenue,Revenue from operations,1219201,1769090,3886010,4887280
+other_income,Other income,561,2256,2023,71304
+materials,Cost of materials consumed,1101517,1614242,3609981,4546038
+inventory_change,Inventory change expense,557,-10347,-26699,-18320
+employees,Employee benefits expense,25167,33267,56742,71115
+other_expenses,Other expenses,40685,62165,95228,101795
+depreciation,Depreciation and amortisation,11463,16188,28102,39298
+finance_costs,Finance costs,6057,7472,15435,13747
+jv_profit,Share of joint venture profit,162,1024,1738,2145
+exceptional_gain,Exceptional gain,0,0,45998,0
+tax_expense,Total tax expense,8970,11891,33722,42631
+pat_total,Group profit after tax,25508,37492,123258,164425
+pat_owners,PAT attributable to owners,25552,36775,109554,143864
+inventory,Closing inventories,95787,169501,399240,383652
+receivables,Closing trade receivables (net),171545,231788,696545,652991
+payables_mse,Current trade payables: MSE,8709,4599,7830,16643
+payables_other,Current trade payables: other,236479,401376,1080535,1055575
+payables_noncurrent,Non-current trade payables,0,546,0,0
+purchases,Raw material/component purchases,,1662601,3733199,4536690
+cash,Closing cash and cash equivalents,21704,20048,23085,76743
+debt_noncurrent,Non-current borrowings,14523,11260,8089,35969
+debt_current,Current borrowings,3739,4243,12139,10781
+current_assets,Total current assets,313927,483628,1309438,1351539
+current_liabilities,Total current liabilities,294099,473162,1259544,1269829
+total_assets,Total assets,467943,699145,1676687,1916164
+total_equity,Total equity including NCI,128463,172246,346933,538667
+total_liabilities,Total liabilities,339480,526899,1329754,1377497
+ocf,Net operating cash flow,,58431,114975,178229
+cash_capex,Cash capex outflow (positive),,58443,93935,106751
+pre_wc_cash,Cash flow before WC changes,,71491,160733,197356
+cash_generated,Cash generated before cash tax,,70610,142571,219689
+cash_tax,Income tax paid (positive),,12179,27596,41460
+cf_inventory,Inventory cash-flow adjustment,,-73714,-189930,19599
+cf_receivables,Receivables cash-flow adjustment,,-60322,-304948,57587
+cf_payables_current,Current payables CF adjustment,,162152,541321,-71732
+cf_payables_noncurrent,Non-current payables CF adjustment,,546,-546,0
+investing_cf,Net investing cash flow,,-53090,-122890,-125054
+financing_cf,Net financing cash flow,,-6997,-2657,-10815
+net_cash_change,Net change from CF activities,,-1656,-10572,42360
+cash_opening,Cash at beginning of year,,21704,20048,23085
+group_cash_adjustment,Cash from group structure changes,,0,13609,11298
+fair_value_gain,Equity investment disposal/fair-value gain,,0,0,67075
+business_sale_gain,Business undertaking sale gain,,0,0,2188

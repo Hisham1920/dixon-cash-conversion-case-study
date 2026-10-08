@@ -1,0 +1,717 @@
+{
+  "company": "Dixon Technologies (India) Limited",
+  "basis": "Consolidated Ind AS",
+  "source_unit": "INR lakh",
+  "display_unit": "INR crore",
+  "as_of": "2026-10-07",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "sources": [
+    {
+      "year": 2026,
+      "url": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/8afe81b1-4e6c-44c3-84c5-92304ed8c07d-AnnualReportFY2025-26.pdf"
+    },
+    {
+      "year": 2025,
+      "url": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/efdb9811-daf3-459e-ab6b-60a94aebaa4f-AnnualReport-2024-25.pdf"
+    },
+    {
+      "year": 2024,
+      "url": "https://dixon-website.s3.ap-south-1.amazonaws.com/uploads/1745428945732_dixon-annual-report-2023-24.pdf"
+    }
+  ],
+  "metrics": [
+    {
+      "key": "revenue",
+      "label": "Revenue from operations",
+      "values": [
+        1219201,
+        1769090,
+        3886010,
+        4887280
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "other_income",
+      "label": "Other income",
+      "values": [
+        561,
+        2256,
+        2023,
+        71304
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "materials",
+      "label": "Cost of materials consumed",
+      "values": [
+        1101517,
+        1614242,
+        3609981,
+        4546038
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "inventory_change",
+      "label": "Inventory change expense",
+      "values": [
+        557,
+        -10347,
+        -26699,
+        -18320
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "employees",
+      "label": "Employee benefits expense",
+      "values": [
+        25167,
+        33267,
+        56742,
+        71115
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "other_expenses",
+      "label": "Other expenses",
+      "values": [
+        40685,
+        62165,
+        95228,
+        101795
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "depreciation",
+      "label": "Depreciation and amortisation",
+      "values": [
+        11463,
+        16188,
+        28102,
+        39298
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "finance_costs",
+      "label": "Finance costs",
+      "values": [
+        6057,
+        7472,
+        15435,
+        13747
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "jv_profit",
+      "label": "Share of joint venture profit",
+      "values": [
+        162,
+        1024,
+        1738,
+        2145
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "exceptional_gain",
+      "label": "Exceptional gain",
+      "values": [
+        0,
+        0,
+        45998,
+        0
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "tax_expense",
+      "label": "Total tax expense",
+      "values": [
+        8970,
+        11891,
+        33722,
+        42631
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "pat_total",
+      "label": "Group profit after tax",
+      "values": [
+        25508,
+        37492,
+        123258,
+        164425
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "pat_owners",
+      "label": "PAT attributable to owners",
+      "values": [
+        25552,
+        36775,
+        109554,
+        143864
+      ],
+      "source_locations": [
+        "FY2024 report p317 (PDF271)",
+        "FY2025 report p323 (PDF274)",
+        "FY2026 report p409 (PDF346)",
+        "FY2026 report p409 (PDF346)"
+      ]
+    },
+    {
+      "key": "inventory",
+      "label": "Closing inventories",
+      "values": [
+        95787,
+        169501,
+        399240,
+        383652
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "receivables",
+      "label": "Closing trade receivables (net)",
+      "values": [
+        171545,
+        231788,
+        696545,
+        652991
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "payables_mse",
+      "label": "Current trade payables: MSE",
+      "values": [
+        8709,
+        4599,
+        7830,
+        16643
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "payables_other",
+      "label": "Current trade payables: other",
+      "values": [
+        236479,
+        401376,
+        1080535,
+        1055575
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "payables_noncurrent",
+      "label": "Non-current trade payables",
+      "values": [
+        0,
+        546,
+        0,
+        0
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "purchases",
+      "label": "Raw material/component purchases",
+      "values": [
+        null,
+        1662601,
+        3733199,
+        4536690
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p368 (PDF319), note39",
+        "FY2026 report p458 (PDF395), note38",
+        "FY2026 report p458 (PDF395), note38"
+      ]
+    },
+    {
+      "key": "cash",
+      "label": "Closing cash and cash equivalents",
+      "values": [
+        21704,
+        20048,
+        23085,
+        76743
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "debt_noncurrent",
+      "label": "Non-current borrowings",
+      "values": [
+        14523,
+        11260,
+        8089,
+        35969
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "debt_current",
+      "label": "Current borrowings",
+      "values": [
+        3739,
+        4243,
+        12139,
+        10781
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "current_assets",
+      "label": "Total current assets",
+      "values": [
+        313927,
+        483628,
+        1309438,
+        1351539
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "current_liabilities",
+      "label": "Total current liabilities",
+      "values": [
+        294099,
+        473162,
+        1259544,
+        1269829
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "total_assets",
+      "label": "Total assets",
+      "values": [
+        467943,
+        699145,
+        1676687,
+        1916164
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "total_equity",
+      "label": "Total equity including NCI",
+      "values": [
+        128463,
+        172246,
+        346933,
+        538667
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "total_liabilities",
+      "label": "Total liabilities",
+      "values": [
+        339480,
+        526899,
+        1329754,
+        1377497
+      ],
+      "source_locations": [
+        "FY2024 report p316 (PDF270)",
+        "FY2025 report p322 (PDF273)",
+        "FY2026 report p408 (PDF345)",
+        "FY2026 report p408 (PDF345)"
+      ]
+    },
+    {
+      "key": "ocf",
+      "label": "Net operating cash flow",
+      "values": [
+        null,
+        58431,
+        114975,
+        178229
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cash_capex",
+      "label": "Cash capex outflow (positive)",
+      "values": [
+        null,
+        58443,
+        93935,
+        106751
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "pre_wc_cash",
+      "label": "Cash flow before WC changes",
+      "values": [
+        null,
+        71491,
+        160733,
+        197356
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cash_generated",
+      "label": "Cash generated before cash tax",
+      "values": [
+        null,
+        70610,
+        142571,
+        219689
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cash_tax",
+      "label": "Income tax paid (positive)",
+      "values": [
+        null,
+        12179,
+        27596,
+        41460
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cf_inventory",
+      "label": "Inventory cash-flow adjustment",
+      "values": [
+        null,
+        -73714,
+        -189930,
+        19599
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cf_receivables",
+      "label": "Receivables cash-flow adjustment",
+      "values": [
+        null,
+        -60322,
+        -304948,
+        57587
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cf_payables_current",
+      "label": "Current payables CF adjustment",
+      "values": [
+        null,
+        162152,
+        541321,
+        -71732
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "cf_payables_noncurrent",
+      "label": "Non-current payables CF adjustment",
+      "values": [
+        null,
+        546,
+        -546,
+        0
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p324 (PDF275)",
+        "FY2026 report p410 (PDF347)",
+        "FY2026 report p410 (PDF347)"
+      ]
+    },
+    {
+      "key": "investing_cf",
+      "label": "Net investing cash flow",
+      "values": [
+        null,
+        -53090,
+        -122890,
+        -125054
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p325 (PDF276)",
+        "FY2026 report p411 (PDF348)",
+        "FY2026 report p411 (PDF348)"
+      ]
+    },
+    {
+      "key": "financing_cf",
+      "label": "Net financing cash flow",
+      "values": [
+        null,
+        -6997,
+        -2657,
+        -10815
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p325 (PDF276)",
+        "FY2026 report p411 (PDF348)",
+        "FY2026 report p411 (PDF348)"
+      ]
+    },
+    {
+      "key": "net_cash_change",
+      "label": "Net change from CF activities",
+      "values": [
+        null,
+        -1656,
+        -10572,
+        42360
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p325 (PDF276)",
+        "FY2026 report p411 (PDF348)",
+        "FY2026 report p411 (PDF348)"
+      ]
+    },
+    {
+      "key": "cash_opening",
+      "label": "Cash at beginning of year",
+      "values": [
+        null,
+        21704,
+        20048,
+        23085
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p325 (PDF276)",
+        "FY2026 report p411 (PDF348)",
+        "FY2026 report p411 (PDF348)"
+      ]
+    },
+    {
+      "key": "group_cash_adjustment",
+      "label": "Cash from group structure changes",
+      "values": [
+        null,
+        0,
+        13609,
+        11298
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p325 (PDF276)",
+        "FY2026 report p411 (PDF348)",
+        "FY2026 report p411 (PDF348)"
+      ]
+    },
+    {
+      "key": "fair_value_gain",
+      "label": "Equity investment disposal/fair-value gain",
+      "values": [
+        null,
+        0,
+        0,
+        67075
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p367 (PDF318), note38",
+        "FY2026 report p458 (PDF395), note37",
+        "FY2026 report p458 (PDF395), note37"
+      ]
+    },
+    {
+      "key": "business_sale_gain",
+      "label": "Business undertaking sale gain",
+      "values": [
+        null,
+        0,
+        0,
+        2188
+      ],
+      "source_locations": [
+        "Not used",
+        "FY2025 report p367 (PDF318), note38",
+        "FY2026 report p458 (PDF395), note37",
+        "FY2026 report p458 (PDF395), note37"
+      ]
+    }
+  ]
+}
